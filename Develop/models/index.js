@@ -14,7 +14,7 @@ Category.hasMany(Product);
 Product.belongsToMany(Tag, {
   through:{
     model: ProductTag,
-    uniqure: false
+    unique: false
   },
   // Define an alias for when data is retrieved
   as:'purchases'
