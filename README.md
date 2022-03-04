@@ -3,7 +3,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Description
- This application is the back end ecommerce for a company website.
+ This application is the back end ecommerce for a company website. Users can utilize this to control the functionality of categories, products, and tags. Functions include viewing, isolating, creating, updating, and deleting. 
 
   ## Table of Contents
 
@@ -18,14 +18,18 @@
 To install this application go through the following steps. 
 1. Open or clone the repository to VSC. 
 2. Run npm install
-3. Run node server.js. 
+3. Open mysql and source the schema file
+4. Seed the date by running node seeds/index.js
+5. Run node server.js. 
 
 ## Usage
-A visual example is below for an overview, or click the link to try the deployed application for yourself. 
+A visual example is below for an overview, or click the demo link to watch a walkthrough video for more details. This application is very user friendly and easy to navigate. Try it on insomnia for more efficient visualization.
 
-![alt text](/images/note.png) 
+![alt text](/images/GETcats.png) 
+![alt text](/images/Getprdcts.png) 
+![alt text](/images/postpdct.png) 
 
-link: 
+Demo Video:https://drive.google.com/file/d/1us9kbyYaCduj1NRfKQv3wJvq0cUuQE-d/view
 
 ## License
 This application uses ISC license 
