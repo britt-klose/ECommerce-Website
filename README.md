@@ -3,7 +3,7 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Description
- This application is the back end ecommerce for a company website. Users can utilize this to control the functionality of categories, products, and tags. Functions include viewing, isolating, creating, updating, and deleting. 
+ This application is the back end ecommerce for a company website. Users can utilize this to control the functionality of categories, products, and tags. Functions include viewing, isolating, creating, updating, and deleting. Javascript is the main language utilized in the development as can be seen in the routes, models, seeds and server files. 
 
   ## Table of Contents
 
